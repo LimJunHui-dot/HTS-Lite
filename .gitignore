@@ -1,0 +1,29 @@
+# 빌드 결과물
+*.obj
+*.exe
+*.pch
+*.pdb
+*.idb
+*.aps
+*.res
+*.ilk
+*.log
+*.tlog
+
+# 사용자 설정
+*.user
+*.suo
+*.userosscache
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# 빌드 폴더
+Debug/
+Release/
+x64/
+ipch/
+
+# VS 설정 폴더
+.vs/
